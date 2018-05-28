@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dumont/catkin_ws/src/auto_assessment/cmake-build-debug/devel/setup.sh
